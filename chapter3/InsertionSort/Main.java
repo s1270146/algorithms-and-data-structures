@@ -10,6 +10,7 @@ public class Main {
         for (int i = 0; i < n; i++) {
             a[i] = scanner.nextInt();
         }
+        scanner.close();
 
         // Sort
         insertionSort(a, n);

@@ -8,6 +8,7 @@ public class Main {
         for (int i = 0; i < n; i++) {
             r[i] = scanner.nextInt();
         }
+        scanner.close();
         int minv, maxv;
         minv = r[0];
         maxv = -2000000000;
