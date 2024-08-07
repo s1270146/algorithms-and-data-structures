@@ -6,3 +6,5 @@
   - Java: openjdk 21.0.4 2024-07-16 LTS
 - Chapter3
   - Java: openjdk 21.0.4 2024-07-16 LTS
+- Chapter4
+  - C++: C++17
