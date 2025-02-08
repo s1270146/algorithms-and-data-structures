@@ -2,6 +2,8 @@
 using namespace std;
 
 int main() {
-  cout << "Hello World!" << endl;
+  ios::sync_with_stdio(false);
+  cin.tie(0);
+
   return 0;
 }
